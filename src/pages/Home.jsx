@@ -4,7 +4,7 @@ import NavbarBootstrap from '../components/NavbarBootstrap'
 import CarouselBootstrap from '../components/CarouselBootstrap'
 import TabProdukComp from '../components/TabProdukComp'
 import FeaturedComp from '../components/FeaturedComp'
-import FindDealer from '../components/findDealer'
+import FindDealer from '../components/FindDealer'
 import Footer from '../components/Footer'
 import ReactFloatingWspComp from '../components/ReactFloatingWspComp'
 
