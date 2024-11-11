@@ -7,7 +7,7 @@ import ReactFloatingWspComp from '../components/ReactFloatingWspComp';
 const VehiclesDetComp = React.lazy(() => import('../components/VehiclesDetComp'));
 const AccordionSpek = React.lazy(() => import('../components/AccordionSpek'));
 const InfoLengkapComp = React.lazy(() => import('../components/InfoLengkapComp'));
-const KatalogImageComp = React.lazy(() => import('../components/katalogImageComp'));
+const KatalogImageComp = React.lazy(() => import('../components/KatalogImageComp'));
 
 export default function VehiclesDetail() {
   return (
